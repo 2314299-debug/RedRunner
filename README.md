@@ -21,6 +21,4 @@ Khám phá và phân tích dự án game RedRunner - một Platformer 2D mã ngu
 3. [PHẦN 3: Thực hành thay đổi]
 4. [PHẦN 4: Git, GitHub & Nộp bài]
 5. [Điểm 5]
-git add README.md
-git commit -m "Lab01: Cap nhat README voi thong tin sinh vien va bao cao"
-git push origin main
+
